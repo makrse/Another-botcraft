@@ -7,14 +7,6 @@ export default
     
     "profiles": [
         "./andy.json",
-        // "./profiles/gpt.json",
-        // "./profiles/claude.json",
-        // "./profiles/gemini.json",
-        // "./profiles/llama.json",
-        // "./profiles/qwen.json",
-        // "./profiles/grok.json",
-        
-        // using more than 1 profile requires you to /msg each bot indivually
     ],
     "load_memory": false, // load memory from previous session
     "init_message": "Say hello world and your name", // sends to all on spawn
