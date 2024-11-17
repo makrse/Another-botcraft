@@ -28,7 +28,13 @@ Do not connect this bot to public servers with coding enabled. This project allo
 10. Finally to package as a docker image to run docker-compose.
 
 ## Patches
-Since its a fork all updates being made on the original proyect it will take as a inspiration, that does not mean all patches/updates will be made on this fork.
+Since its a fork all updates being made on the original proyect it will take as a inspiration, that does not mean all patches/updates will be made on this project.
+
+## Agreement
+```
+You as a client agree and aware that this project does not allowed in any kind of form of fair usage to be as a commercial intend.
+You agree any non arbitrary changes being made on the agreement without previous notification.
+```
 
 ## Citation:
 ```
